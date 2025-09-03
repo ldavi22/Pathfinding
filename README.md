@@ -25,7 +25,7 @@ Dijkstra's algorithm finds the shortest path between nodes in a weighted graph. 
 - Time complexity: O((V + E) log V)
     - `V` represents the number of vertices (nodes) in the graph.
     - `E` represents the number of edges (connections) between nodes.
-![alt text](image.png)
+
 **How it works:**
 1. Initialize all nodes with infinite distance except the start node (distance 0)
 2. Use a priority queue to process nodes in order of shortest distance
@@ -137,18 +137,18 @@ Pathfinding/
 
 #### Dijkstra's Algorithm Visualization
 <div style="display: flex; gap: 10px;">
-    <img src="./images/dj-1.png" alt="djikstra-1" width="250"/>
-    <img src="./images/dj-2.png" alt="djikstra-2" width="250"/>
-    <img src="./images/dj-3.png" alt="djikstra-3" width="250"/>
-    <img src="./images/dj-4.png" alt="djikstra-4" width="250"/>
+    <img src="./images/dj-1.png" alt="djikstra-1" width="200"/>
+    <img src="./images/dj-2.png" alt="djikstra-2" width="200"/>
+    <img src="./images/dj-3.png" alt="djikstra-3" width="200"/>
+    <img src="./images/dj-4.png" alt="djikstra-4" width="200"/>
 </div>
 
 #### A* Search Visualization  
 <div style="display: flex; gap: 10px;">
-    <img src="./images/as-1.png" alt="astar-1" width="250"/>
-    <img src="./images/as-2.png" alt="astar-2" width="250"/>
-    <img src="./images/as-3.png" alt="astar-3" width="250"/>
-    <img src="./images/as-4.png" alt="astar-4" width="250"/>
+    <img src="./images/as-1.png" alt="astar-1" width="200"/>
+    <img src="./images/as-2.png" alt="astar-2" width="200"/>
+    <img src="./images/as-3.png" alt="astar-3" width="200"/>
+    <img src="./images/as-4.png" alt="astar-4" width="200"/>
 </div>
 
 ### Performance Metrics
